@@ -11,5 +11,4 @@ correlation_matrix = abalone.corr()
 # least some correlation between physical 
 # measurements of adult abalones and their 
 # age, yet it’s also not very high.
-
 print(correlation_matrix["Rings"])
